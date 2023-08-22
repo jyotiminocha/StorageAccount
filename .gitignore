@@ -1,0 +1,9 @@
+#Ignoring secrets file
+secrets.tfvars
+
+#Ignoring the tfstate files
+*.tfstate.*
+*.tfstate*
+*.hcl
+
+**/.terraform/*
